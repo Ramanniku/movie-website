@@ -1,0 +1,78 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(159, 154, 154);
+  }
+  
+.body{
+  background-color: black;
+  text-align: center;
+
+}
+  
+  
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font:bold;
+   font-size: 200%;
+   transform: translate(-50%, -50%);
+  }
+ 
+.id{
+    color: azure;
+}
+.midd_p{
+ color: antiquewhite;
+  font-size: 1.12rem;
+}
+.middle{
+  width: 50%;
+  margin: 0;
+  margin: auto;
+  background-color: rgb(0, 0, 0);
+  
+
+}
+.image2{
+  width: 300px;
+  height: 300px;
+
+
+}
+.d3{
+  position: relative;
+  text-align: center;
+  background-color: black;
+}
+hr{
+
+  border: dotted;
+  border-bottom: none;
+  width: 5%;
+  color: rgb(111, 111, 109);
+  
+}
+.image3{
+  width: 300px;
+  height: 500px;
+}
+.bott_p{
+  color: antiquewhite;
+  font-size:large;
+}
+.d4{
+  position: relative;
+  text-align: center;
+
+}
+.p_d4{
+  color: #c4c1c1;
+}
+
+/* 
+new try for card deck */
+

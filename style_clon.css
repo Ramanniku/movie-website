@@ -1,0 +1,191 @@
+                                                   /* top section*/
+
+body{
+    background-color: black;
+}
+.form-inline{
+    margin-left: 40%;
+}
+.btn{
+    margin-left: 480%;
+    display: inline;
+}
+
+.form-control{
+    display: inline-block;
+    width: 300%;
+    border: 0;
+    size: 30%;
+    margin-left: 300%;
+}
+.logo{
+    font-size:2rem;
+    font-weight: bolder;
+    color: rgb(137, 25, 25);
+    margin-left: 20px;
+    font-family: 'copperplate';
+}
+
+.navbar{
+    background-color: rgb(23, 23, 23);
+}
+.nav-link{
+    color: azure;
+    font-family: Arial,Helvetica,sans-serif;
+}
+.navbar-brand{
+    color: rgb(143, 83, 85);
+    margin-right: 40px;
+    font-family: 'monaco';
+}
+.vertical {
+    border-left: 4px solid rgb(209, 209, 215);
+    height: 20px;
+  
+  }
+   /* 8888888888888888888888888888888888888888888888          middle section*/
+
+   h2{
+    color: rgb(99, 166, 166);
+    text-align: center;
+    padding: 3%;
+    font-family:'papyrus';
+   }
+   .RJ{
+    background-color: rgb(23,23,23);
+    border-radius:2px ;
+    margin-left: 40%;
+    font-size: 2rem;
+    font-weight: bolder;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:rgb(137,25,25);
+    font-family: 'monaco';
+   }
+
+   .suggestion{
+    background-color: rgb(3, 108, 122);
+    font-size:1.5rem;
+    position: relative;
+    color: black;
+    border: 0;
+    border-radius: 2%;
+    margin-left: 50px;
+    font-family: arial;
+    
+   }
+
+   .suggestion:hover{
+    background-color: rgb(178, 34, 34);
+   }
+   .TOPI{
+    color: azure;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-decoration: none;
+   }
+   .TOPI:hover{
+    color: black;
+    
+   }
+   .Most{
+    margin-left: 25px;
+    color: azure;
+    text-decoration: none;
+   }
+   .Most:hover{
+    color: black;
+   }
+   .viewMore{
+    position: relative;
+    left: 920%;
+    text-decoration: none;
+    color: azure;
+   }
+   .viewMore:hover{
+    color: black;
+   }
+
+   /* 0000000000000000000000000000000000000000000            images */
+   
+
+
+   .midimg{
+    opacity: .7;
+   width: 80%;
+    height: 80%;
+   
+   }
+ 
+   .row{
+    text-align: center;
+   }
+
+   .li{
+    list-style-type: none;
+    color: azure;
+   }
+   .orginal{
+    text-align: center;
+    color: azure;
+   }
+   .discalmier{
+    color: rgb(67, 66, 66);
+   }
+   .bottom{
+    background-color: rgb(23,23,23);
+   }
+
+/*                                                           text on images   */
+
+
+.container{
+    position: relative;
+}
+.text-block{
+    position: absolute;
+    height: auto;
+    left: 0;
+    width: 100%;
+    opacity: 1;
+    
+    text-align: center;
+    
+    bottom: 40px;
+    
+    /* padding: 10px; */
+    
+    color: white;
+    padding-left: 50px;
+    padding-right: 40px;
+    
+   
+}
+
+
+/*                              hollywood page                    */
+
+.botns{
+    margin-bottom: 2%;
+}
+
+.btns{
+    border: 0;
+    border-radius: 5%;
+    background-color: rgb(3, 108, 122);
+    padding: 1%;
+}
+.btns:hover{
+    background-color:rgb(178, 34, 34) ;
+}
+.dots{
+    color: azure;
+    font-weight: bolder;
+    display: inline;
+}
+
+
+
+
+   
+
